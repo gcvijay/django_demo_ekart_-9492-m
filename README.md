@@ -4,7 +4,7 @@ Technologies Used:
 
 Backend: Python, Django
 Frontend: HTML, CSS
-Database: PostgreSQL
+Database: MySQL
 
 User Authentication
 
